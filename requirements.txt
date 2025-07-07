@@ -1,0 +1,4 @@
+flask
+numpy
+pandas
+scikit-learn (install version of 1.5.1)
