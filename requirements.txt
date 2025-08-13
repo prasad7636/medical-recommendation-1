@@ -1,4 +1,9 @@
-flask
-numpy
-pandas
-scikit-learn (install version of 1.5.1)
+pip>=25.2
+setuptool>=70.0
+wheel>=0.43.0
+Flask==3.0.3
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+
+
